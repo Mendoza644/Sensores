@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sensor_message">No tienes acelerómetro </string>
+    <string name="left_message">Lado izquierdo X : </string>
+    <string name="right_message">Lado derecho X : </string>
+    <string name="back_message">Estás adelante Y : </string>
+    <string name="front_message">Estás atrás Y : </string>
+    <string name="down_message">Estás abajo Y : </string>
+    <string name="up_message">Estás arriba Y : </string>
+    <string name="center_message">Posición por defecto </string>
+    <string name="app_name">Sensors</string>
+    <string name="app_instructions">Aquí aprenderás como funciona el acelerómetro</string>
+</resources>
